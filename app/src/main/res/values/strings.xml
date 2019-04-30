@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">lifecounter</string>
+
+    <integer name="plus_int">1</integer>
+    <integer name="minus_int">-1</integer>
+    <integer name="plus_5_int">5</integer>
+    <integer name="minus_5_int">-5</integer>
+
+    <string name="p1">Player 1</string>
+    <integer name="p1_lives">20</integer>
+    <string name="p2">Player 2</string>
+    <integer name="p2_lives">20</integer>
+    <string name="p3">Player 3</string>
+    <integer name="p3_lives">20</integer>
+    <string name="p4">Player 4</string>
+    <integer name="p4_lives">20</integer>
 </resources>
